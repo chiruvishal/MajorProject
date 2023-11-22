@@ -1,0 +1,452 @@
+[
+    {
+        "text": " Great phone, so glad I got one. So much you can do with this phone and the camera is super.",
+        "top_features": {
+            "Feature 1": {
+                "Name": "So",
+                "Importance": -0.8014979738074024
+            },
+            "Feature 2": {
+                "Name": "so",
+                "Importance": -0.796382411626962
+            },
+            "Feature 3": {
+                "Name": "phone",
+                "Importance": -0.709550489341358
+            },
+            "Feature 4": {
+                "Name": "Great",
+                "Importance": -0.6997404109236701
+            },
+            "Feature 5": {
+                "Name": "with",
+                "Importance": -0.6355524412168319
+            },
+            "Feature 6": {
+                "Name": "and",
+                "Importance": -0.552856837182626
+            },
+            "Feature 7": {
+                "Name": "is",
+                "Importance": -0.49503779044017776
+            },
+            "Feature 8": {
+                "Name": "one",
+                "Importance": -0.4939157852389566
+            },
+            "Feature 9": {
+                "Name": "camera",
+                "Importance": 0.44581159016830957
+            },
+            "Feature 10": {
+                "Name": "this",
+                "Importance": -0.36981548345005305
+            }
+        }
+    },
+    {
+        "text": "This is my third Nokia phone, and my second with Microsoft Phone software. The first issue is that the screen is very fragile and breaks easily. I've had my phone for a month and it's broken twice. It should be sold with its own cover for protection. Secondly, the compatibility of Microsoft phone software with other useful softwares, such as Amazon for instance is limited. iPhone and Samsung are much more versatile. BIG disappointment!",
+        "top_features": {
+            "Feature 1": {
+                "Name": "instance",
+                "Importance": 1.0780516417627108
+            },
+            "Feature 2": {
+                "Name": "for",
+                "Importance": 0.8217006222022054
+            },
+            "Feature 3": {
+                "Name": "This",
+                "Importance": -0.8138780713151649
+            },
+            "Feature 4": {
+                "Name": "is",
+                "Importance": -0.8097651402517909
+            },
+            "Feature 5": {
+                "Name": "with",
+                "Importance": -0.6175802060186897
+            },
+            "Feature 6": {
+                "Name": "and",
+                "Importance": -0.5928340063159715
+            },
+            "Feature 7": {
+                "Name": "my",
+                "Importance": -0.537661728833129
+            },
+            "Feature 8": {
+                "Name": "I",
+                "Importance": -0.4877042839466664
+            },
+            "Feature 9": {
+                "Name": "issue",
+                "Importance": -0.3373707597842623
+            },
+            "Feature 10": {
+                "Name": "BIG",
+                "Importance": 0.10243711598717382
+            }
+        }
+    },
+    {
+        "text": "Amazing Pictures just as expected. The Seller - Breed, shipped the item quickly and I received it the day after ordering with the 1 day shipping option which is great since my other phone died. Love the 1020, wish I could find the wireless charging cover somewhere as it seems unavailable, but otherwise I'm very happy with the phone.",
+        "top_features": {
+            "Feature 1": {
+                "Name": "but",
+                "Importance": -0.694317966218832
+            },
+            "Feature 2": {
+                "Name": "expected",
+                "Importance": -0.6906022032271458
+            },
+            "Feature 3": {
+                "Name": "since",
+                "Importance": -0.5731494948608562
+            },
+            "Feature 4": {
+                "Name": "unavailable",
+                "Importance": -0.5320634383065111
+            },
+            "Feature 5": {
+                "Name": "I",
+                "Importance": -0.5055472794066126
+            },
+            "Feature 6": {
+                "Name": "the",
+                "Importance": -0.46858425578797136
+            },
+            "Feature 7": {
+                "Name": "m",
+                "Importance": -0.4329378488302618
+            },
+            "Feature 8": {
+                "Name": "and",
+                "Importance": -0.4004642398949785
+            },
+            "Feature 9": {
+                "Name": "shipped",
+                "Importance": -0.38664124848833653
+            },
+            "Feature 10": {
+                "Name": "with",
+                "Importance": -0.33648254598688715
+            }
+        }
+    },
+    {
+        "text": "This phone died on 3-30-2016, that means it lived for approx 4 months only!! I tried to return it...couldn't. I spent over a hundred dollars for this phone that lasted for only 4 months. Absolutely unacceptable!!",
+        "top_features": {
+            "Feature 1": {
+                "Name": "approx",
+                "Importance": 0.38850601314694294
+            },
+            "Feature 2": {
+                "Name": "means",
+                "Importance": -0.3714049372045822
+            },
+            "Feature 3": {
+                "Name": "This",
+                "Importance": -0.3468676774640659
+            },
+            "Feature 4": {
+                "Name": "only",
+                "Importance": 0.20519581173171145
+            },
+            "Feature 5": {
+                "Name": "that",
+                "Importance": -0.1930877946727256
+            },
+            "Feature 6": {
+                "Name": "couldn",
+                "Importance": -0.1661029715902556
+            },
+            "Feature 7": {
+                "Name": "it",
+                "Importance": -0.15276223536079367
+            },
+            "Feature 8": {
+                "Name": "I",
+                "Importance": -0.14505659799775553
+            },
+            "Feature 9": {
+                "Name": "return",
+                "Importance": -0.13639876881390023
+            },
+            "Feature 10": {
+                "Name": "over",
+                "Importance": 0.12816055397787612
+            }
+        }
+    },
+    {
+        "text": "I would not recommend buying a certified refurbished cell phone. The phone I got was very cheaply made and did not work well.",
+        "top_features": {
+            "Feature 1": {
+                "Name": "recommend",
+                "Importance": -1.557355625128182
+            },
+            "Feature 2": {
+                "Name": "I",
+                "Importance": -1.4989780119498506
+            },
+            "Feature 3": {
+                "Name": "phone",
+                "Importance": -1.286290191924924
+            },
+            "Feature 4": {
+                "Name": "and",
+                "Importance": -1.1322957797687465
+            },
+            "Feature 5": {
+                "Name": "well",
+                "Importance": -1.0890985610541908
+            },
+            "Feature 6": {
+                "Name": "a",
+                "Importance": -0.9859604531919606
+            },
+            "Feature 7": {
+                "Name": "The",
+                "Importance": -0.7744090672837969
+            },
+            "Feature 8": {
+                "Name": "not",
+                "Importance": -0.7603529712376048
+            },
+            "Feature 9": {
+                "Name": "would",
+                "Importance": -0.6436537347099883
+            },
+            "Feature 10": {
+                "Name": "buying",
+                "Importance": -0.4712248716711488
+            }
+        }
+    },
+    {
+        "text": "Great phone, always been a Nokia fan, love the picture quality",
+        "top_features": {
+            "Feature 1": {
+                "Name": "been",
+                "Importance": 0.8029376317060146
+            },
+            "Feature 2": {
+                "Name": "the",
+                "Importance": 0.6802738070250894
+            },
+            "Feature 3": {
+                "Name": "a",
+                "Importance": 0.5408294104796405
+            },
+            "Feature 4": {
+                "Name": "fan",
+                "Importance": 0.48103727067921037
+            },
+            "Feature 5": {
+                "Name": "always",
+                "Importance": 0.4002532144953391
+            },
+            "Feature 6": {
+                "Name": "love",
+                "Importance": 0.3995893960876241
+            },
+            "Feature 7": {
+                "Name": "quality",
+                "Importance": 0.2849562279288706
+            },
+            "Feature 8": {
+                "Name": "Great",
+                "Importance": -0.26826043234836133
+            },
+            "Feature 9": {
+                "Name": "picture",
+                "Importance": 0.19795381301366397
+            },
+            "Feature 10": {
+                "Name": "phone",
+                "Importance": 0.14689160023532302
+            }
+        }
+    },
+    {
+        "text": "I am so pleased with my order and phone. It arrived quicker than they said and is working great!",
+        "top_features": {
+            "Feature 1": {
+                "Name": "so",
+                "Importance": 0.6367737034711916
+            },
+            "Feature 2": {
+                "Name": "and",
+                "Importance": -0.19861572039475905
+            },
+            "Feature 3": {
+                "Name": "they",
+                "Importance": 0.1479213975763244
+            },
+            "Feature 4": {
+                "Name": "working",
+                "Importance": 0.11587084626883945
+            },
+            "Feature 5": {
+                "Name": "I",
+                "Importance": -0.11072980608031574
+            },
+            "Feature 6": {
+                "Name": "with",
+                "Importance": -0.0899013706137527
+            },
+            "Feature 7": {
+                "Name": "It",
+                "Importance": -0.08041798355150338
+            },
+            "Feature 8": {
+                "Name": "pleased",
+                "Importance": 0.07400887286697296
+            },
+            "Feature 9": {
+                "Name": "great",
+                "Importance": -0.0701833070075277
+            },
+            "Feature 10": {
+                "Name": "said",
+                "Importance": 0.05634197001137785
+            }
+        }
+    },
+    {
+        "text": "Because it's an old iPhone, I thought it would be slow but it's actually very good for its current price.",
+        "top_features": {
+            "Feature 1": {
+                "Name": "slow",
+                "Importance": 0.7473074282474923
+            },
+            "Feature 2": {
+                "Name": "but",
+                "Importance": -0.47046932561419047
+            },
+            "Feature 3": {
+                "Name": "it",
+                "Importance": -0.44837361934389053
+            },
+            "Feature 4": {
+                "Name": "thought",
+                "Importance": 0.26272304575596794
+            },
+            "Feature 5": {
+                "Name": "Because",
+                "Importance": 0.21869115487508425
+            },
+            "Feature 6": {
+                "Name": "price",
+                "Importance": -0.2139939340072923
+            },
+            "Feature 7": {
+                "Name": "I",
+                "Importance": -0.2118789500043416
+            },
+            "Feature 8": {
+                "Name": "would",
+                "Importance": -0.20693144041651992
+            },
+            "Feature 9": {
+                "Name": "its",
+                "Importance": -0.2049699956129321
+            },
+            "Feature 10": {
+                "Name": "iPhone",
+                "Importance": -0.16485845702044089
+            }
+        }
+    },
+    {
+        "text": "I got a phone that was scratched on the side and had a replaced back case. It's a Verizon unlocked device, and it's worked quite well so far. It's not exactly new-looking or new-functioning, but I guess that's what you get with a refurbished phone.UPDATE: I've been using the phone for a month now, and it's just two days into my return window. The phone has started dying out on battery. I would recommend",
+        "top_features": {
+            "Feature 1": {
+                "Name": "and",
+                "Importance": -1.5859399579092834
+            },
+            "Feature 2": {
+                "Name": "I",
+                "Importance": -1.529868462576568
+            },
+            "Feature 3": {
+                "Name": "a",
+                "Importance": -1.5049179316820922
+            },
+            "Feature 4": {
+                "Name": "on",
+                "Importance": -0.8605819866982996
+            },
+            "Feature 5": {
+                "Name": "It",
+                "Importance": -0.7826526062048655
+            },
+            "Feature 6": {
+                "Name": "it",
+                "Importance": -0.7750470337707954
+            },
+            "Feature 7": {
+                "Name": "but",
+                "Importance": -0.6583024051323256
+            },
+            "Feature 8": {
+                "Name": "far",
+                "Importance": -0.6218079751621062
+            },
+            "Feature 9": {
+                "Name": "that",
+                "Importance": -0.611927449659607
+            },
+            "Feature 10": {
+                "Name": "recommend",
+                "Importance": -0.5640062184047315
+            }
+        }
+    },
+    {
+        "text": "Got the iphone a little bit early. They said it would be in perfect condition. Well the iphone came and I had to restore it. After I restored it, I tried to play music and one of the speakers doesn't work. The call volume is also very low. nobody can hear me forreal but I can hear them. it'll sound like my fone is breaking up.",
+        "top_features": {
+            "Feature 1": {
+                "Name": "forreal",
+                "Importance": 0.14556046915852278
+            },
+            "Feature 2": {
+                "Name": "and",
+                "Importance": -0.12187332988901753
+            },
+            "Feature 3": {
+                "Name": "early",
+                "Importance": -0.11260600112656179
+            },
+            "Feature 4": {
+                "Name": "like",
+                "Importance": -0.11078330115953866
+            },
+            "Feature 5": {
+                "Name": "is",
+                "Importance": -0.104323897768121
+            },
+            "Feature 6": {
+                "Name": "sound",
+                "Importance": -0.09651104714508937
+            },
+            "Feature 7": {
+                "Name": "ll",
+                "Importance": -0.09531071366180305
+            },
+            "Feature 8": {
+                "Name": "doesn",
+                "Importance": -0.09513926990403315
+            },
+            "Feature 9": {
+                "Name": "a",
+                "Importance": -0.08194488400422031
+            },
+            "Feature 10": {
+                "Name": "nobody",
+                "Importance": 0.07198515927473137
+            }
+        }
+    }
+]
